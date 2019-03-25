@@ -1,0 +1,11 @@
+.wrap{
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 8px #2c3033;
+    background: white;
+    box-shadow: 0 0 0px 1px rgba(255,255,255,.4),
+    0 0 0px 3px #2c3033;
+}

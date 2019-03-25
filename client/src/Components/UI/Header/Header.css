@@ -1,0 +1,23 @@
+.buttonNav{
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 5px 10px;
+    padding: 5px;
+    border: 1px solid #17a2b8;
+    border-radius: 4px;
+    color: #17a2b8;
+}
+.buttonNav:hover{
+    color: white;
+    text-decoration: none;
+    background: #17a2b8;
+}
+.buttonNavActiv{
+    background: #17a2b8;
+    color: aqua;
+}
+.logo{
+    width: 80px;
+    height: auto;
+    border-radius: 10%;
+}
